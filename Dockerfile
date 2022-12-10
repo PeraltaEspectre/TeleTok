@@ -1,4 +1,4 @@
-FROM python
+FROM heroku/buildpacks
 
 WORKDIR /code
 
