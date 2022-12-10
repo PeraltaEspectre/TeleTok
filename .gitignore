@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
+./usr/local/lib/python3.9/site-packages/aiogram/
