@@ -1,4 +1,4 @@
-FROM iron/python
+FROM python
 
 WORKDIR /code
 
