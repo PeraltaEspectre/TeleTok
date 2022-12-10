@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-aiogram
 # C extensions
 *.so
 
@@ -128,4 +127,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
-./usr/local/lib/python3.9/site-packages/aiogram/
