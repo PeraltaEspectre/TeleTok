@@ -2,10 +2,3 @@ attrs==21.4.0
 httpx==0.22.0
 sentry-sdk==1.5.6
 aiogram==2.13.0
-aiofiles
-pyrogram==1.4.16
-tgcrypto
-aiohttp
-motor
-dnspython
-python-dotenv
