@@ -1,4 +1,4 @@
-FROM janmelicharik/3.9.1_ci_gen
+FROM heroku/buildpacks
 
 WORKDIR /code
 
